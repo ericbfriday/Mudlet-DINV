@@ -220,6 +220,7 @@ end</script>
         <conditonLineDelta>0</conditonLineDelta>
         <mStayOpen>0</mStayOpen>
         <mCommand></mCommand>
+        <packageName></packageName>
         <regexCodeList>
           <string>^\{invmon\}(.*?),(.*?),(.*?),(.*?)$</string>
         </regexCodeList>
@@ -242,6 +243,7 @@ end</script>
         <conditonLineDelta>0</conditonLineDelta>
         <mStayOpen>0</mStayOpen>
         <mCommand></mCommand>
+        <packageName></packageName>
         <regexCodeList>
           <string>^.+\{invmon\}.*$</string>
         </regexCodeList>
@@ -258,6 +260,7 @@ end</script>
         <conditonLineDelta>0</conditonLineDelta>
         <mStayOpen>0</mStayOpen>
         <mCommand></mCommand>
+        <packageName></packageName>
         <regexCodeList>
           <string>^\{invitem\}(.*?),(.*?)$</string>
         </regexCodeList>
@@ -274,6 +277,7 @@ end</script>
         <conditonLineDelta>0</conditonLineDelta>
         <mStayOpen>0</mStayOpen>
         <mCommand></mCommand>
+        <packageName></packageName>
         <regexCodeList>
           <string>^\{invdata\}(.*)$</string>
         </regexCodeList>
@@ -290,6 +294,7 @@ end</script>
         <conditonLineDelta>0</conditonLineDelta>
         <mStayOpen>0</mStayOpen>
         <mCommand></mCommand>
+        <packageName></packageName>
         <regexCodeList>
           <string>^\{eqdata\}(.*)$</string>
         </regexCodeList>
